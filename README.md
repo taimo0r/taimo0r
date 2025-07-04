@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taimo0r
 - 👀 I’m interested in Mobile application development 
-- 🌱 I’m currently pursuing Mobile App Developmt at Fanshawe College, London, Canada
+- 🌱 I’m currently working as a Lead Mobile Developer at Impactful Legacy Corp
 - 📫 Email me at taimoormujahid83@gmail.com
 
 <!---
